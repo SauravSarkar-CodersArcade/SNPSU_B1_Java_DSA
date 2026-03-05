@@ -29,6 +29,6 @@ public class E7 {
         for (Intern i : interns){
             System.out.println(i.name + " " + i.id);
         }
-        
+
     }
 }
