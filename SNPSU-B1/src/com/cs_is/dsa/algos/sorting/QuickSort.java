@@ -1,7 +1,5 @@
 package com.cs_is.dsa.algos.sorting;
-
 import java.util.Arrays;
-
 public class QuickSort {
     public static void swap(int[] arr, int i, int j){
         int temp = arr[i];
