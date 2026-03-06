@@ -36,5 +36,6 @@ public class CountSort {
         System.out.println(Arrays.toString(arr));
         countSort(arr);
         System.out.println(Arrays.toString(arr));
+
     }
 }
